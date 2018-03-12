@@ -31,3 +31,10 @@ Decorator/.idea/misc.xml
 Decorator/.idea/workspace.xml
 Decorator/.idea/modules.xml
 *.iml
+.DS_Store
+Decorator/.idea/inspectionProfiles/profiles_settings.xml
+Visitor/.idea/compiler.xml
+Visitor/.idea/encodings.xml
+Visitor/.idea/misc.xml
+Visitor/.idea/modules.xml
+Visitor/.idea/workspace.xml
