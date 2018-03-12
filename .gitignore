@@ -25,3 +25,9 @@ Abstract Factory/AbstractFactory.iml
 *.class
 *.properties
 *.lst
+Decorator/.idea/compiler.xml
+Decorator/.idea/encodings.xml
+Decorator/.idea/misc.xml
+Decorator/.idea/workspace.xml
+Decorator/.idea/modules.xml
+*.iml
