@@ -14,3 +14,14 @@ Factory/.idea/misc.xml
 Factory/.idea/encodings.xml
 Factory/.idea/compiler.xml
 Factory/.idea/artifacts/Factory.xml
+
+Abstract Factory/.idea/artifacts/Factory.xml
+Abstract Factory/.idea/compiler.xml
+Abstract Factory/.idea/encodings.xml
+Abstract Factory/.idea/misc.xml
+Abstract Factory/.idea/modules.xml
+Abstract Factory/.idea/workspace.xml
+Abstract Factory/AbstractFactory.iml
+*.class
+*.properties
+*.lst
