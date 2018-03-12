@@ -1,3 +1,6 @@
+#!/usr/bin/env bash
 mvn package;
 java -jar target/Decorator-1.0-SNAPSHOT.jar
-echo "Termino Decorator Pattern"
+echo "*************************************"
+echo "Terminado Decorator"
+echo "*************************************"
