@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Factory">
+    <output-path>$PROJECT_DIR$/out/artifacts/Factory</output-path>
+    <root id="archive" name="Factory.jar" />
+  </artifact>
+</component>
