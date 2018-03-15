@@ -7,10 +7,12 @@ Por medio de expresiones lambda podemos referenciar métodos anónimos o método
 
  En el programa se usa la clase `FactorialAbstract` y Funcion que son abstractas y los métodos se instancian al momento de usarse, las expresiones de lambda son muy usadas en distintos frameworks para añadir funcionalidad especifica a clases genericas como son los
  events (para agregar un listener se puede hacer):
-  `//[Vaadin/JavaSwing Code]
+  ```
+  Java
+  //[Vaadin/JavaSwing Code]
   button.addClickListener(e->{
     //TODO
-  });`
+  });```
 
 Sin tener que crear una clase que implemente `ClickListener` y esto ahorra tiempo y esfuerzo de crear clases "únicas" para cada acción.
 
